@@ -55,12 +55,13 @@ exports.allmenu = (conn, prefix, pushname, ucapanWaktu) => {
 
 *Thanks To*
 ≻ Wann
+≻ Sneazy/Finn
 ≻ Adiwajshing
 ≻ Mr.G3P5
 ≻ LeysCoders Team
 ≻ TEKAJEH Team
 
 
-Fitur lainya coming soon..
+Fitur lainnya? Request aja..
     `
 }
